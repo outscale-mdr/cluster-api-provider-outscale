@@ -20,6 +20,9 @@ func ValidateCidr(cidr string) (string, error) {
 	if err != nil {
 		return cidr, err
 	}
+	if err != nil {
+		return cidr, err
+	}
 	return cidr, nil
 }
 
