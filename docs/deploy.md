@@ -14,7 +14,7 @@
 ## Clone
 
 ```
-git clone https://github.com/outscale-vbr/cluster-api-provider-outscale
+git clone https://github.com/outscale-dev/cluster-api-provider-outscale
 cd cluster-api-provider-outscale
 ```
 
